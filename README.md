@@ -1,6 +1,6 @@
 # Stellar Task Manager
 
-![Stellar Task Manager](https://drive.google.com/file/d/1Yj0ZBRAw4E7GYfUyZ2wFIxAXUIptGxWn/view)
+![Stellar Task Manager](Stellar-logo.png)
 
 Stellar Task Manager is a web application designed to streamline team task management. The backend is built with Node.js and Express.js, providing robust and scalable APIs to support task assignment, tracking, and user management. The database used is MongoDB, ensuring efficient data storage and retrieval.
 
